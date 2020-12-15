@@ -7,7 +7,7 @@ type AccordionPropsType = {
     onClick: (collaps: boolean) => void
 }
 
-function Accardion(props: AccordionPropsType) {
+export function Accardion(props: AccordionPropsType) {
     return (
         <div>
 
@@ -50,4 +50,3 @@ function Txt(props: any) {
     )
 }
 
-export default Accardion;

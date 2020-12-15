@@ -3,7 +3,7 @@ import "./App.css";
 import {Rang, RangValueType} from "./components/Rang/Rang";
 import {UncontrollRang} from "./components/Rang/UncontrollRang";
 import Accardion from "./components/accordion/Accordion";
-import OnOff from "./OnOff/OnOff";
+import {OnOff} from "./OnOff/OnOff";
 
 
 function App() {
